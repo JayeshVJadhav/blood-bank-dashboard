@@ -34,6 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ### Dashboard Overview
 ![Dashboard Overview](/screenshots/dashboard-overview.png)
 <img width="1910" height="971" alt="Screenshot 2026-03-27 153952" src="https://github.com/user-attachments/assets/6e70cdb0-2d33-426f-9d17-c921958e71fb" />
+
+<img width="1899" height="977" alt="Screenshot 2026-03-27 154018" src="https://github.com/user-attachments/assets/53e41471-08f7-4c36-8b3f-1c07fa4d0225" />
+
+<img width="1911" height="978" alt="Screenshot 2026-03-27 154033" src="https://github.com/user-attachments/assets/fd6f8260-a628-483e-b18f-701e8380fed6" />
+
+
 <img width="1909" height="977" alt="Screenshot 2026-03-27 154059" src="https://github.com/user-attachments/assets/0eed74ae-4454-419b-8b8f-dec3f4fc1234" />
 
 
