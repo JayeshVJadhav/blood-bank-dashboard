@@ -33,7 +33,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ### Dashboard Overview
 ![Dashboard Overview](/screenshots/dashboard-overview.png)
-<img width="797" height="587" alt="Screenshot 2026-03-26 164313" src="https://github.com/user-attachments/assets/4104d198-5309-41e9-a4ae-e93afcb71b36" />
+<img width="1910" height="971" alt="Screenshot 2026-03-27 153952" src="https://github.com/user-attachments/assets/6e70cdb0-2d33-426f-9d17-c921958e71fb" />
+<img width="1909" height="977" alt="Screenshot 2026-03-27 154059" src="https://github.com/user-attachments/assets/0eed74ae-4454-419b-8b8f-dec3f4fc1234" />
+
+
 
 ### Add Blood Bank Form
 ![Add Blood Bank](/screenshots/add-blood-bank.png)
